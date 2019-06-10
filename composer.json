@@ -1,0 +1,12 @@
+{
+    "name": "vending/machine",
+    "description": "machine",
+    "license": "mit",
+    "require": {},
+    "require-dev": {},
+    "autoload":{
+    	"psr-4":{
+    		"VendingMachine\\":"src/"
+    	}
+    }
+}
